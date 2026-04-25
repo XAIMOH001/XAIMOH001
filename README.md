@@ -1,4 +1,4 @@
-Simon Chau | CS Minor @Maasai Mara University.<br>Currently working on Front-End-Development.<br>Passionate in Exploring Web and Software Development.
+Simon Chau | CS Minor @Maasai Mara University.<br>Currently working on Front-End-Development. <br>Passionate in Exploring Web and Software Development.
 
 
 ## 🌐 Socials:
