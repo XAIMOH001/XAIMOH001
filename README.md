@@ -1,4 +1,3 @@
-# 💫 About Me:
 Simon Chau | CS Student @Maasai Mara University.<br>Currently working on Front-End-Development.<br>Passionate in Exploring Web and Software Development.
 
 # 📊 GitHub Stats:
@@ -14,8 +13,5 @@ Simon Chau | CS Student @Maasai Mara University.<br>Currently working on Front-E
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XAIMOH001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=XAIMOH001&icon=6&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
