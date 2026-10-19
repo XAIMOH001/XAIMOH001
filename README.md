@@ -1,4 +1,4 @@
-Simon Chau | CS Student @Maasai Mara University.<br>Currently working on Front-End-Development.<br>Passionate in Exploring Web and Software Development.
+Simon Chau | CS Student @Maasai Mara University.<br>Currently working on Full-stack-Development.<br>Passionate in Exploring Web and Software Development.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=XAIMOH001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
